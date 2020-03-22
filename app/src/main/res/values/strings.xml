@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">S-A-V-E</string>
+  <string name="preference_file_key">com.example.s_a_v_e.SP_FILE</string>
+</resources>
